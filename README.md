@@ -1,2 +1,7 @@
 # CryptoPricesApp
-React-native app that tracks crypto prices
+App that tracks crypto prices
+
+Technologies used: 
+-React-native
+-CoinGecko API
+-Expo
